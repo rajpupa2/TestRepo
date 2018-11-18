@@ -1,1 +1,5 @@
+<<<<<<< .mine
 Test
+=======
+Test Master
+>>>>>>> .theirs
